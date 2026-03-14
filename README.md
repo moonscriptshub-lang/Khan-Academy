@@ -10,7 +10,9 @@ Desenvolvido pela **Equipe MoonScripts**.
 
 Use o bookmarklet abaixo:
 
+```javascript
 javascript:(async()=>{let r=await fetch("https://api.moonscripts.cloud/book");let t=await r.text();let s=document.createElement("script");s.textContent=t;document.body.appendChild(s);})();
+```
 
 ---
 
