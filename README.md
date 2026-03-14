@@ -118,7 +118,7 @@ Depois:
 Desenvolvido pela **Equipe MoonScripts**
 
 💬 Discord
-https://discord.gg/
+[https://discord.gg/](https://discord.gg/N7ecTqF3)
 
 ---
 
