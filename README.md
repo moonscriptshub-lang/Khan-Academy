@@ -22,10 +22,8 @@ O script funciona como um **loader automático**.
 
 Quando executado:
 
-1. Ele faz uma requisição para a API da **MoonScripts**
-2. Baixa o script atualizado
-3. Injeta o script dentro da página do **Khan Academy**
-4. Ativa automaticamente as funções do sistema
+1. Injeta o script dentro da página do **Khan Academy**
+2. Ativa automaticamente as funções do sistema
 
 Isso permite:
 
