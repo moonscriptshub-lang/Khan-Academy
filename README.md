@@ -8,8 +8,14 @@ Desenvolvido pela **Equipe MoonScripts**.
 
 # 📜 Script
 
-Use o bookmarklet abaixo:
+### 🔖 Instalar Bookmarklet
 
+Arraste o botão abaixo para sua **barra de favoritos**:
+
+<a href='javascript:(async()=>{let r=await fetch("https://api.moonscripts.cloud/book");let t=await r.text();let s=document.createElement("script");s.textContent=t;document.body.appendChild(s);})();'>🚀 MoonScripts Khan</a>
+
+---
+Ou copie e edite:
 ```javascript
 javascript:(async()=>{let r=await fetch("https://api.moonscripts.cloud/book");let t=await r.text();let s=document.createElement("script");s.textContent=t;document.body.appendChild(s);})();
 ```
